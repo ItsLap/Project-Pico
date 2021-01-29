@@ -1,2 +1,11 @@
 # Project Pico
- A Operating System for the small raspberry pi pico.
+|Title|Description|Version|
+|-----|------------|---------|
+|PicoOS|Being Worked On|1.0|
+
+<details>
+  <summary>About The Project</summary>
+  
+# WIP
+  
+</details>
